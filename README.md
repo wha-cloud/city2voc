@@ -1,2 +1,4 @@
 # city2voc
 Convert the cityscape dataset to voc format
+
+city2xml用于cityscape数据集的txt转化为voc的xml文件，foggy2xml用于在前一步后将cityscape_foggy数据集转化为xml文件。maketxt用于制作voc数据集中的train.txt。fix_xml可以删掉xml文件中不需要的目标。
